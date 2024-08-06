@@ -1,0 +1,34 @@
+{
+    "businesses": [
+        {
+            "name": "Joe's Diner",
+            "address": "123 Main St, Your City",
+            "phone": "(123) 456-7890",
+            "hours": "8 AM - 10 PM",
+            "type": "restaurant",
+            "services": ["Breakfast Menu", "Lunch Specials", "Dinner Options", "Catering Services"]
+        },
+        {
+            "name": "Fit & Strong Gym",
+            "address": "456 Elm St, Your City",
+            "phone": "(987) 654-3210",
+            "hours": "5 AM - 11 PM",
+            "type": "gym",
+            "services": ["Personal Training", "Group Classes", "Gym Equipment", "Nutrition Counseling"]
+        }
+    ],
+    "events": [
+        {
+            "name": "Community Health Fair",
+            "date": "August 15, 2024",
+            "location": "Central Park, Your City",
+            "details": "Join us for a day of health screenings, fitness demos, and wellness workshops."
+        },
+        {
+            "name": "Summer Food Festival",
+            "date": "August 20, 2024",
+            "location": "Downtown Plaza, Your City",
+            "details": "Enjoy a variety of food trucks, live music, and family-friendly activities."
+        }
+    ]
+}
