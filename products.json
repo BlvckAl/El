@@ -1,6 +1,23 @@
 [
-    { "id": 1, "name": "Laptop", "description": "High performance laptop", "price": "$999.00", "category": "electronics", "image": "https://via.placeholder.com/300" },
-    { "id": 2, "name": "Smartphone", "description": "Latest model smartphone", "price": "$699.00", "category": "electronics", "image": "https://via.placeholder.com/300" },
-    { "id": 3, "name": "T-shirt", "description": "Comfortable cotton t-shirt", "price": "$19.00", "category": "clothing", "image": "https://via.placeholder.com/300" },
-    { "id": 4, "name": "Novel", "description": "Bestselling novel", "price": "$15.00", "category": "books", "image": "https://via.placeholder.com/300" }
+    {
+        "id": "1",
+        "name": "Laptop",
+        "description": "A high-performance laptop with 16GB RAM and 512GB SSD.",
+        "price": 1200,
+        "image": "laptop.jpg"
+    },
+    {
+        "id": "2",
+        "name": "Smartphone",
+        "description": "A latest-generation smartphone with an excellent camera.",
+        "price": 800,
+        "image": "smartphone.jpg"
+    },
+    {
+        "id": "3",
+        "name": "Headphones",
+        "description": "Noise-canceling over-ear headphones.",
+        "price": 200,
+        "image": "headphones.jpg"
+    }
 ]
