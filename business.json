@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Tech Innovations",
+        "address": "123 Silicon Ave",
+        "category": "Technology",
+        "state": "California",
+        "type": "Tech Company",
+        "services": "Software Development, IT Consulting",
+        "size": "Big"
+    },
+    {
+        "name": "Gourmet Bistro",
+        "address": "456 Flavor St",
+        "category": "Restaurant",
+        "state": "California",
+        "type": "Restaurant",
+        "services": "Fine Dining, Catering",
+        "size": "Medium"
+    },
+    {
+        "name": "Urban Fitness",
+        "address": "789 Workout Rd",
+        "category": "Fitness",
+        "state": "California",
+        "type": "Gym",
+        "services": "Personal Training, Group Classes",
+        "size": "Small"
+    },
+    {
+        "name": "Book Haven",
+        "address": "101 Literary Ln",
+        "category": "Retail",
+        "state": "New York",
+        "type": "Bookstore",
+        "services": "Book Sales, Reading Events",
+        "size": "Medium"
+    },
+    {
+        "name": "Metro Law Firm",
+        "address": "202 Justice Blvd",
+        "category": "Legal",
+        "state": "New York",
+        "type": "Law Firm",
+        "services": "Legal Consultation, Court Representation",
+        "size": "Big"
+    },
+    {
+        "name": "Green Thumb Nursery",
+        "address": "303 Garden Dr",
+        "category": "Retail",
+        "state": "California",
+        "type": "Plant Nursery",
+        "services": "Plant Sales, Landscaping",
+        "size": "Small"
+    },
+    {
+        "name": "Cozy Cafe",
+        "address": "404 Coffee St",
+        "category": "Restaurant",
+        "state": "New York",
+        "type": "Cafe",
+        "services": "Coffee, Pastries",
+        "size": "Small"
+    },
+    {
+        "name": "Creative Designs",
+        "address": "505 Art Ave",
+        "category": "Design",
+        "state": "California",
+        "type": "Graphic Design Studio",
+        "services": "Logo Design, Branding",
+        "size": "Medium"
+    },
+    {
+        "name": "Health First Clinic",
+        "address": "606 Wellness Rd",
+        "category": "Healthcare",
+        "state": "New York",
+        "type": "Medical Clinic",
+        "services": "General Practice, Health Check-ups",
+        "size": "Big"
+    },
+    {
+        "name": "Quick Repair Services",
+        "address": "707 Fix It Ln",
+        "category": "Service",
+        "state": "California",
+        "type": "Repair Service",
+        "services": "Home Repairs, Maintenance",
+        "size": "Medium"
+    }
+]
