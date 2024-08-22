@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "title": "Luxury Villa in Beverly Hills",
+        "price": "$5,000,000",
+        "beds": 5,
+        "baths": 4,
+        "description": "Beautiful luxury villa located in the heart of Beverly Hills, featuring a stunning garden, private pool, and exquisite interiors.",
+        "image": "https://example.com/images/property1.jpg",
+        "latitude": 10.5036,
+        "longitude": 7.4337,
+        "location": "Beverly Hills"
+    },
+    {
+        "id": 2,
+        "title": "Modern Apartment in New York",
+        "price": "$3,200,000",
+        "beds": 3,
+        "baths": 2,
+        "description": "Stylish modern apartment with a panoramic view of the New York skyline, featuring spacious living areas and top-notch amenities.",
+        "image": "https://example.com/images/property2.jpg",
+        "latitude": 40.7128,
+        "longitude": -74.0060,
+        "location": "New York"
+    },
+    {
+        "id": 3,
+        "title": "Cozy House in San Francisco",
+        "price": "$2,000,000",
+        "beds": 4,
+        "baths": 3,
+        "description": "Charming cozy house with a beautiful garden in San Francisco, ideal for families looking for a comfortable home.",
+        "image": "https://example.com/images/property3.jpg",
+        "latitude": 37.7749,
+        "longitude": -122.4194,
+        "location": "San Francisco"
+    },
+    {
+        "id": 4,
+        "title": "Elegant Condo in Miami",
+        "price": "$4,000,000",
+        "beds": 2,
+        "baths": 2,
+        "description": "Elegant condo with ocean views in Miami, featuring modern design, high-end finishes, and easy access to the beach.",
+        "image": "https://example.com/images/property4.jpg",
+        "latitude": 25.7617,
+        "longitude": -80.1918,
+        "location": "Miami"
+    }
+]
