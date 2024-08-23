@@ -9,11 +9,11 @@
         "image": "https://us.123rf.com/450wm/tinkerfrost/tinkerfrost2306/tinkerfrost230600045/208403642-modern-apartment-buildings-on-a-sunny-day-with-a-blue-sky-facade-of-a-modern-apartment-building.jpg",
         "latitude": 10.5036,
         "longitude": 7.4337,
-        "location": "Beverly Hills"
+        "location": "Zaria"
     },
     {
         "id": 2,
-        "title": "Modern Apartment in New York",
+        "title": "Modern Apartment in Zaria",
         "price": "$3,200,000",
         "beds": 3,
         "baths": 2,
@@ -25,7 +25,7 @@
     },
     {
         "id": 3,
-        "title": "Cozy House in San Francisco",
+        "title": "Cozy House in kaduna",
         "price": "$2,000,000",
         "beds": 4,
         "baths": 3,
@@ -33,11 +33,11 @@
         "image": "https://us.123rf.com/450wm/tinkerfrost/tinkerfrost2306/tinkerfrost230600045/208403642-modern-apartment-buildings-on-a-sunny-day-with-a-blue-sky-facade-of-a-modern-apartment-building.jpg",
         "latitude": 37.7749,
         "longitude": -122.4194,
-        "location": "San Francisco"
+        "location": "kaduna"
     },
     {
         "id": 4,
-        "title": "Elegant Condo in Miami",
+        "title": "Elegant Condo in kano",
         "price": "$4,000,000",
         "beds": 2,
         "baths": 2,
@@ -45,6 +45,6 @@
         "image": "https://example.com/images/property4.jpg",
         "latitude": 25.7617,
         "longitude": -80.1918,
-        "location": "Miami"
+        "location": "kano"
     }
 ]
