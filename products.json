@@ -4,7 +4,7 @@
         "name": "Laptop",
         "description": "A high-performance laptop with 16GB RAM and 512GB SSD.",
         "price": 1200,
-        "image": "laptop.jpg"
+        "image": "https://us.123rf.com/450wm/tinkerfrost/tinkerfrost2306/tinkerfrost230600045/208403642-modern-apartment-buildings-on-a-sunny-day-with-a-blue-sky-facade-of-a-modern-apartment-building.jpg"
     },
     {
         "id": "2",
