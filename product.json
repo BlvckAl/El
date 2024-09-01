@@ -1,39 +1,35 @@
-
 [
     {
-        "name": "Sofa Set",
-        "images": [
-            "https://via.placeholder.com/500",
-            "https://via.placeholder.com/500/ff0000",
-            "https://via.placeholder.com/500/00ff00",
-            "https://via.placeholder.com/500/0000ff",
-            "https://via.placeholder.com/500/ffff00"
-        ],
-        "description": "A comfortable and stylish sofa set that seats 3. Perfect for your living room, featuring high-quality fabric and durable construction.",
-        "price": "$499"
+        "id": 1,
+        "name": "Home Product 1",
+        "price": 25.00,
+        "description": "A great home product.",
+        "category": "Home",
+        "images": ["https://via.placeholder.com/400x300", "https://via.placeholder.com/400x300"]
     },
     {
-        "name": "Modern Lamp",
-        "images": [
-            "https://via.placeholder.com/500/cccccc",
-            "https://via.placeholder.com/500/aaaaff",
-            "https://via.placeholder.com/500/aa2222",
-            "https://via.placeholder.com/500/22aa22",
-            "https://via.placeholder.com/500/2222aa"
-        ],
-        "description": "An elegant modern lamp with a unique design that fits any room's decor. Made from eco-friendly materials.",
-        "price": "$89"
+        "id": 2,
+        "name": "Real Estate Product 1",
+        "price": 300000.00,
+        "description": "A luxurious real estate product.",
+        "category": "Real Estate",
+        "images": ["https://via.placeholder.com/400x300", "https://via.placeholder.com/400x300"]
     },
     {
-        "name": "Office Chair",
-        "images": [
-            "https://via.placeholder.com/500/aaaaaa",
-            "https://via.placeholder.com/500/aaaa33",
-            "https://via.placeholder.com/500/33aaaa",
-            "https://via.placeholder.com/500/555555",
-            "https://via.placeholder.com/500/333333"
-        ],
-        "description": "Ergonomic office chair designed to provide maximum comfort and support, featuring adjustable height and tilt mechanism.",
-        "price": "$199"
+        "id": 3,
+        "name": "Home Product 2",
+        "price": 15.00,
+        "description": "Another great home product.",
+        "category": "Home",
+        "images": ["https://via.placeholder.com/400x300", "https://via.placeholder.com/400x300"]
+    },
+    
+        {
+        "id": 3,
+        "name": "chair",
+        "price": 15.00,
+        "description": "Another great home product.",
+        "category": "Home",
+        "images": ["https://via.placeholder.com/400x300", "https://via.placeholder.com/400x300"]
     }
 ]
