@@ -1,23 +1,35 @@
 [
     {
-        "id": "1",
-        "name": "Laptop",
-        "description": "A high-performance laptop with 16GB RAM and 512GB SSD.",
-        "price": 1200,
-        "image": "https://us.123rf.com/450wm/tinkerfrost/tinkerfrost2306/tinkerfrost230600045/208403642-modern-apartment-buildings-on-a-sunny-day-with-a-blue-sky-facade-of-a-modern-apartment-building.jpg"
+        "id": 1,
+        "name": "Home Product 1",
+        "price": 25.00,
+        "description": "A great home product.",
+        "category": "Home",
+        "images": ["https://via.placeholder.com/400x300", "https://via.placeholder.com/400x300"]
     },
     {
-        "id": "2",
-        "name": "Smartphone",
-        "description": "A latest-generation smartphone with an excellent camera.",
-        "price": 800,
-        "image": "smartphone.jpg"
+        "id": 2,
+        "name": "Real Estate Product 1",
+        "price": 300000.00,
+        "description": "A luxurious real estate product.",
+        "category": "Real Estate",
+        "images": ["https://via.placeholder.com/400x300", "https://via.placeholder.com/400x300"]
     },
     {
-        "id": "3",
-        "name": "Headphones",
-        "description": "Noise-canceling over-ear headphones.",
-        "price": 200,
-        "image": "headphones.jpg"
+        "id": 3,
+        "name": "Home Product 2",
+        "price": 15.00,
+        "description": "Another great home product.",
+        "category": "Home",
+        "images": ["https://via.placeholder.com/400x300", "https://via.placeholder.com/400x300"]
+    },
+    
+        {
+        "id": 3,
+        "name": "chair",
+        "price": 15.00,
+        "description": "Another great home product.",
+        "category": "Home",
+        "images": ["https://via.placeholder.com/400x300", "https://via.placeholder.com/400x300"]
     }
 ]
