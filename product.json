@@ -1,0 +1,39 @@
+
+[
+    {
+        "name": "Sofa Set",
+        "images": [
+            "https://via.placeholder.com/500",
+            "https://via.placeholder.com/500/ff0000",
+            "https://via.placeholder.com/500/00ff00",
+            "https://via.placeholder.com/500/0000ff",
+            "https://via.placeholder.com/500/ffff00"
+        ],
+        "description": "A comfortable and stylish sofa set that seats 3. Perfect for your living room, featuring high-quality fabric and durable construction.",
+        "price": "$499"
+    },
+    {
+        "name": "Modern Lamp",
+        "images": [
+            "https://via.placeholder.com/500/cccccc",
+            "https://via.placeholder.com/500/aaaaff",
+            "https://via.placeholder.com/500/aa2222",
+            "https://via.placeholder.com/500/22aa22",
+            "https://via.placeholder.com/500/2222aa"
+        ],
+        "description": "An elegant modern lamp with a unique design that fits any room's decor. Made from eco-friendly materials.",
+        "price": "$89"
+    },
+    {
+        "name": "Office Chair",
+        "images": [
+            "https://via.placeholder.com/500/aaaaaa",
+            "https://via.placeholder.com/500/aaaa33",
+            "https://via.placeholder.com/500/33aaaa",
+            "https://via.placeholder.com/500/555555",
+            "https://via.placeholder.com/500/333333"
+        ],
+        "description": "Ergonomic office chair designed to provide maximum comfort and support, featuring adjustable height and tilt mechanism.",
+        "price": "$199"
+    }
+]
