@@ -1,0 +1,97 @@
+[
+
+    { 
+
+        "id": "1",
+
+        "name": "Luxury Condo in Kaduna",
+
+        "coords": [10.5305, 7.4415],
+
+        "description": "A beautiful condo located in the heart of Kaduna.",
+
+        "images": [
+
+            "https://via.placeholder.com/300x200?text=Image+1",
+
+            "https://via.placeholder.com/300x200?text=Image+2",
+
+            "https://via.placeholder.com/300x200?text=Image+3"
+
+        ],
+
+        "price": "₦50,000,000",
+
+        "bedrooms": 4,
+
+        "bathrooms": 3,
+
+        "size": "2,500 sqft",
+
+        "contact": "tel:+2348012345678"
+
+    },
+
+    { 
+
+        "id": "2",
+
+        "name": "Cozy Apartment in Zaria",
+
+        "coords": [11.066667, 7.700000],
+
+        "description": "A cozy and affordable apartment in Zaria.",
+
+        "images": [
+
+            "https://via.placeholder.com/300x200?text=Image+1",
+
+            "https://via.placeholder.com/300x200?text=Image+2"
+
+        ],
+
+        "price": "₦25,000,000",
+
+        "bedrooms": 3,
+
+        "bathrooms": 2,
+
+        "size": "1,800 sqft",
+
+        "contact": "tel:+2348012345678"
+
+    },
+
+    { 
+
+        "id": "3",
+
+        "name": "Spacious Villa in Kafanchan",
+
+        "coords": [9.5818, 8.2928],
+
+        "description": "A spacious villa in the serene environment of Kafanchan.",
+
+        "images": [
+
+            "https://via.placeholder.com/300x200?text=Image+1",
+
+            "https://via.placeholder.com/300x200?text=Image+2",
+
+            "https://via.placeholder.com/300x200?text=Image+3"
+
+        ],
+
+        "price": "₦80,000,000",
+
+        "bedrooms": 5,
+
+        "bathrooms": 4,
+
+        "size": "4,000 sqft",
+
+        "contact": "tel:+2348012345678"
+
+    }
+
+]
