@@ -1,11 +1,11 @@
 [
     {
         "id": 1,
-        "name": "Home Product 1",
-        "price": 25.00,
-        "description": "A great home product.",
+        "name": "standing lamp",
+        "price": 3500,
+        "description": "Elevate your home decor with this sleek and stylish standing lamp!",
         "category": "Home",
-        "images": ["https://us.123rf.com/450wm/tinkerfrost/tinkerfrost2306/tinkerfrost230600045/208403642-modern-apartment-buildings-on-a-sunny-day-with-a-blue-sky-facade-of-a-modern-apartment-building.jpg", "https://via.placeholder.com/400x300"]
+        "images": ["building.jpg", "https://via.placeholder.com/400x300"]
     },
     {
         "id": 2,
