@@ -1,11 +1,11 @@
 [
     {
         "id": 1,
-        "name": "standing lamp",
+        "name": "Standing Lamp",
         "price": 3500,
         "description": "Elevate your home decor with this sleek and stylish standing lamp!",
         "category": "Home",
-        "images": ["lamp.jpg", "lamp2.jpg"]
+        "images": ["https://github.com/BlvckAl/El/blob/main/lamp.jpg", "https://github.com/BlvckAl/El/blob/main/lamp2.jpg"]
     },
     {
         "id": 2,
@@ -13,7 +13,7 @@
         "price": 4000.00,
         "description": "Cook with ease and convenience using this reliable electric cooker!",
         "category": "Kitchen",
-        "images": ["cooker.jpg", "cooker.jpg"]
+        "images": ["https://github.com/BlvckAl/El/blob/main/cooker.jpg", "https://github.com/BlvckAl/El/blob/main/cooker2.jpg"]
     },
     {
         "id": 3,
@@ -21,15 +21,23 @@
         "price": 3100.00,
         "description": "Add a touch of sophistication to your table.",
         "category": "Kitchen",
-        "images": ["cup.jpg", "cup2.jpg"]
+        "images": ["https://github.com/BlvckAl/El/blob/main/cup.jpg", "https://github.com/BlvckAl/El/blob/main/cup2.jpg"]
     },
     
         {
         "id": 3,
-        "name": "chair",
+        "name": "Plastic Chair",
         "price": 1500.00,
         "description": "Set ourdoor elegantly using is fancy chair.",
         "category": "Home",
-        "images": ["chair.jpg", "chair2.jpg"]
+        "images": ["https://github.com/BlvckAl/El/blob/main/chair.jpg", "https://github.com/BlvckAl/El/blob/main/chair2.jpg"]
+    },
+    {
+        "id": 4,
+        "name": "Standing Fan",
+        "price": 1500.00,
+        "description": "Set ourdoor elegantly using is fancy chair.",
+        "category": "Home",
+        "images": ["https://github.com/BlvckAl/El/blob/main/fan.jpg", "https://github.com/BlvckAl/El/blob/main/fan2.jpg"]
     }
 ]
