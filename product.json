@@ -5,31 +5,31 @@
         "price": 3500,
         "description": "Elevate your home decor with this sleek and stylish standing lamp!",
         "category": "Home",
-        "images": ["building.jpg", "https://via.placeholder.com/400x300"]
+        "images": ["lamp.jpg", "lamp2.jpg"]
     },
     {
         "id": 2,
-        "name": "Real Estate Product 1",
-        "price": 300000.00,
-        "description": "A luxurious real estate product.",
-        "category": "Real Estate",
-        "images": ["https://via.placeholder.com/400x300", "https://us.123rf.com/450wm/tinkerfrost/tinkerfrost2306/tinkerfrost230600045/208403642-modern-apartment-buildings-on-a-sunny-day-with-a-blue-sky-facade-of-a-modern-apartment-building.jpg"]
+        "name": "Electric Cooker",
+        "price": 4000.00,
+        "description": "Cook with ease and convenience using this reliable electric cooker!",
+        "category": "Kitchen",
+        "images": ["cooker.jpg", "cooker.jpg"]
     },
     {
         "id": 3,
-        "name": "Home Product 2",
-        "price": 15.00,
-        "description": "Another great home product.",
-        "category": "Home",
-        "images": ["https://us.123rf.com/450wm/tinkerfrost/tinkerfrost2306/tinkerfrost230600045/208403642-modern-apartment-buildings-on-a-sunny-day-with-a-blue-sky-facade-of-a-modern-apartment-building.jpg", "https://via.placeholder.com/400x300"]
+        "name": "Glass Cup",
+        "price": 3100.00,
+        "description": "Add a touch of sophistication to your table.",
+        "category": "Kitchen",
+        "images": ["cup.jpg", "cup2.jpg"]
     },
     
         {
         "id": 3,
         "name": "chair",
-        "price": 15.00,
-        "description": "Another great home product.",
+        "price": 1500.00,
+        "description": "Set ourdoor elegantly using is fancy chair.",
         "category": "Home",
-        "images": ["https://via.placeholder.com/400x300", "https://us.123rf.com/450wm/tinkerfrost/tinkerfrost2306/tinkerfrost230600045/208403642-modern-apartment-buildings-on-a-sunny-day-with-a-blue-sky-facade-of-a-modern-apartment-building.jpg"]
+        "images": ["chair.jpg", "chair2.jpg"]
     }
 ]
