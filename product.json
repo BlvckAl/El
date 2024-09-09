@@ -5,7 +5,7 @@
         "price": 3500,
         "description": "Elevate your home decor with this sleek and stylish standing lamp!",
         "category": "Home",
-        "images": ["https://github.com/BlvckAl/El/blob/main/lamp.jpg", "https://github.com/BlvckAl/El/blob/main/lamp2.jpg"]
+        "images": ["https://github.com/BlvckAl/El/blob/main/img/lamp.jpg", "https://github.com/BlvckAl/El/blob/main/img/lamp2.jpg"]
     },
     {
         "id": 2,
@@ -13,7 +13,7 @@
         "price": 4000.00,
         "description": "Cook with ease and convenience using this reliable electric cooker!",
         "category": "Kitchen",
-        "images": ["https://github.com/BlvckAl/El/blob/main/cooker.jpg", "https://github.com/BlvckAl/El/blob/main/cooker2.jpg"]
+        "images": ["https://github.com/BlvckAl/El/blob/main/img/cooker.jpg", "https://github.com/BlvckAl/El/blob/main/img/cooker2.jpg"]
     },
     {
         "id": 3,
@@ -21,7 +21,7 @@
         "price": 3100.00,
         "description": "Add a touch of sophistication to your table.",
         "category": "Kitchen",
-        "images": ["https://github.com/BlvckAl/El/blob/main/cup.jpg", "https://github.com/BlvckAl/El/blob/main/cup2.jpg"]
+        "images": ["https://github.com/BlvckAl/El/blob/main/img/cup.jpg", "https://github.com/BlvckAl/El/blob/main/img/cup2.jpg"]
     },
     
         {
@@ -30,7 +30,7 @@
         "price": 1500.00,
         "description": "Set ourdoor elegantly using is fancy chair.",
         "category": "Home",
-        "images": ["https://github.com/BlvckAl/El/blob/main/chair.jpg", "https://github.com/BlvckAl/El/blob/main/chair2.jpg"]
+        "images": ["https://github.com/BlvckAl/El/blob/main/img/chair.jpg", "https://github.com/BlvckAl/El/blob/main/img/chair2.jpg"]
     },
     {
         "id": 4,
@@ -38,6 +38,6 @@
         "price": 1500.00,
         "description": "Set ourdoor elegantly using is fancy chair.",
         "category": "Home",
-        "images": ["https://github.com/BlvckAl/El/blob/main/fan.jpg", "https://github.com/BlvckAl/El/blob/main/fan2.jpg"]
+        "images": ["https://github.com/BlvckAl/El/blob/main/img/fan.jpg", "https://github.com/BlvckAl/El/blob/main/img/fan2.jpg"]
     }
 ]
