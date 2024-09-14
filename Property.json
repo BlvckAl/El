@@ -1,22 +1,38 @@
 [
-    { "id": 1, "title": "Cozy Apartment in Lagos", "image": "https://via.placeholder.com/300", "description": "A cozy and stylish apartment located in the heart of Lagos.", "price": "$100 per night", "address": "123 Lagos Road, Lagos", "type": "Apartment" },
-    { "id": 2, "title": "Luxury Villa in Abuja", "image": "https://via.placeholder.com/300", "description": "A luxurious villa with a private pool and stunning views in Abuja.", "price": "$500 per night", "address": "456 Abuja Street, Abuja", "type": "Villa" },
-    { "id": 3, "title": "Spacious Loft in Port Harcourt", "image": "https://via.placeholder.com/300", "description": "A spacious loft with modern amenities in Port Harcourt.", "price": "$200 per night", "address": "789 Port Harcourt Lane, Port Harcourt", "type": "Loft" },
-    { "id": 4, "title": "Charming Cottage in Ibadan", "image": "https://via.placeholder.com/300", "description": "A charming cottage surrounded by nature in Ibadan.", "price": "$150 per night", "address": "321 Ibadan Avenue, Ibadan", "type": "Cottage" },
-    { "id": 5, "title": "Elegant Mansion in Lagos", "image": "https://via.placeholder.com/300", "description": "An elegant mansion with all luxury features in Lagos.", "price": "$700 per night", "address": "654 Lagos Road, Lagos", "type": "Mansion" },
-    { "id": 6, "title": "Modern Studio in Abuja", "image": "https://via.placeholder.com/300", "description": "A modern studio apartment in the center of Abuja.", "price": "$120 per night", "address": "987 Abuja Plaza, Abuja", "type": "Studio" },
-    { "id": 7, "title": "Rustic Cabin in Port Harcourt", "image": "https://via.placeholder.com/300", "description": "A rustic cabin perfect for a weekend getaway in Port Harcourt.", "price": "$180 per night", "address": "234 Port Harcourt Lane, Port Harcourt", "type": "Cabin" },
-    { "id": 8, "title": "Stylish Penthouse in Lagos", "image": "https://via.placeholder.com/300", "description": "A stylish penthouse with a rooftop terrace in Lagos.", "price": "$600 per night", "address": "456 Lagos Avenue, Lagos", "type": "Penthouse" },
-    { "id": 9, "title": "Spacious Townhouse in Abuja", "image": "https://via.placeholder.com/300", "description": "A spacious townhouse suitable for families in Abuja.", "price": "$250 per night", "address": "123 Abuja Crescent, Abuja", "type": "Townhouse" },
-    { "id": 10, "title": "Cozy Guest House in Ibadan", "image": "https://via.placeholder.com/300", "description": "A cozy guest house with a welcoming atmosphere in Ibadan.", "price": "$130 per night", "address": "567 Ibadan Road, Ibadan", "type": "Guest House" },
-    { "id": 11, "title": "Beach House in Lagos", "image": "https://via.placeholder.com/300", "description": "A beautiful beach house with ocean views in Lagos.", "price": "$400 per night", "address": "789 Beach Road, Lagos", "type": "Beach House" },
-    { "id": 12, "title": "Luxury Riad in Abuja", "image": "https://via.placeholder.com/300", "description": "A luxurious Riad offering a unique cultural experience in Abuja.", "price": "$550 per night", "address": "321 Abuja Street, Abuja", "type": "Riad" },
-    { "id": 13, "title": "Treehouse in Port Harcourt", "image": "https://via.placeholder.com/300", "description": "A unique treehouse experience surrounded by trees in Port Harcourt.", "price": "$220 per night", "address": "123 Treehouse Lane, Port Harcourt", "type": "Treehouse" },
-    { "id": 14, "title": "Houseboat in Lagos", "image": "https://via.placeholder.com/300", "description": "An adventurous houseboat experience on the waters of Lagos.", "price": "$300 per night", "address": "456 Houseboat Road, Lagos", "type": "Houseboat" },
-    { "id": 15, "title": "Charming Farmhouse in Abuja", "image": "https://via.placeholder.com/300", "description": "A charming farmhouse with ample space in Abuja.", "price": "$350 per night", "address": "789 Farmhouse Lane, Abuja", "type": "Farmhouse" },
-    { "id": 16, "title": "Luxury Yacht in Port Harcourt", "image": "https://via.placeholder.com/300", "description": "A luxury yacht experience for the ultimate vacation in Port Harcourt.", "price": "$800 per night", "address": "321 Yacht Dock, Port Harcourt", "type": "Yacht" },
-    { "id": 17, "title": "Modern Bungalow in Ibadan", "image": "https://via.placeholder.com/300", "description": "A modern bungalow with sleek design in Ibadan.", "price": "$200 per night", "address": "456 Bungalow Street, Ibadan", "type": "Bungalow" },
-    { "id": 18, "title": "Cozy Chalet in Lagos", "image": "https://via.placeholder.com/300", "description": "A cozy chalet perfect for a winter retreat in Lagos.", "price": "$250 per night", "address": "789 Chalet Avenue, Lagos", "type": "Chalet" },
-    { "id": 19, "title": "Stylish Apartment in Abuja", "image": "https://via.placeholder.com/300", "description": "A stylish and contemporary apartment in Abuja.", "price": "$150 per night", "address": "321 Stylish Road, Abuja", "type": "Apartment" },
-    { "id": 20, "title": "Luxury Loft in Kano", "image": "https://via.placeholder.com/300", "description": "A luxury loft with city views in Kano.", "price": "$300 per night", "address": "654 Loft Street, Kano", "type": "Loft" }
+    {
+        "name": "Modern Apartment",
+        "location": "Lagos",
+        "price": 150000,
+        "images": [
+            "https://via.placeholder.com/400x300?text=Modern+Apartment+1",
+            "https://via.placeholder.com/400x300?text=Modern+Apartment+2",
+            "https://via.placeholder.com/400x300?text=Modern+Apartment+3"
+        ],
+        "description": "A spacious and modern apartment in Lagos.",
+        "phone": "1234567890"
+    },
+    {
+        "name": "Beach House",
+        "location": "Accra",
+        "price": 300000,
+        "images": [
+            "https://via.placeholder.com/400x300?text=Beach+House+1",
+            "https://via.placeholder.com/400x300?text=Beach+House+2",
+            "https://via.placeholder.com/400x300?text=Beach+House+3"
+        ],
+        "description": "Beautiful beach house in Accra, with a sea view.",
+        "phone": "0987654321"
+    },
+    {
+        "name": "Suburban Villa",
+        "location": "Abuja",
+        "price": 500000,
+        "images": [
+            "https://via.placeholder.com/400x300?text=Suburban+Villa+1",
+            "https://via.placeholder.com/400x300?text=Suburban+Villa+2",
+            "https://via.placeholder.com/400x300?text=Suburban+Villa+3"
+        ],
+        "description": "Luxurious suburban villa with a large garden.",
+        "phone": "1122334455"
+    }
 ]
