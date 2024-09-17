@@ -1,38 +1,28 @@
-[
+{
+  "properties": [
     {
-        "name": "Modern Apartment",
-        "location": "Lagos",
-        "price": 150000,
-        "images": [
-            "https://via.placeholder.com/400x300?text=Modern+Apartment+1",
-            "https://via.placeholder.com/400x300?text=Modern+Apartment+2",
-            "https://via.placeholder.com/400x300?text=Modern+Apartment+3"
-        ],
-        "description": "A spacious and modern apartment in Lagos.",
-        "phone": "1234567890"
+      "title": "Luxury Apartment",
+      "price": "$500,000",
+      "image": "https://example.com/images/luxury_apartment.jpg",
+      "description": "A spacious luxury apartment with modern amenities and beautiful city views.",
+      "address": "123 High Street, City Center",
+      "realtorPhone": "1234567890"
     },
     {
-        "name": "Beach House",
-        "location": "Accra",
-        "price": 300000,
-        "images": [
-            "https://via.placeholder.com/400x300?text=Beach+House+1",
-            "https://via.placeholder.com/400x300?text=Beach+House+2",
-            "https://via.placeholder.com/400x300?text=Beach+House+3"
-        ],
-        "description": "Beautiful beach house in Accra, with a sea view.",
-        "phone": "0987654321"
+      "title": "Cozy Cottage",
+      "price": "$250,000",
+      "image": "https://example.com/images/cozy_cottage.jpg",
+      "description": "A cozy and charming cottage located in a peaceful neighborhood.",
+      "address": "456 Oak Avenue, Suburbia",
+      "realtorPhone": "0987654321"
     },
     {
-        "name": "Suburban Villa",
-        "location": "Abuja",
-        "price": 500000,
-        "images": [
-            "https://via.placeholder.com/400x300?text=Suburban+Villa+1",
-            "https://via.placeholder.com/400x300?text=Suburban+Villa+2",
-            "https://via.placeholder.com/400x300?text=Suburban+Villa+3"
-        ],
-        "description": "Luxurious suburban villa with a large garden.",
-        "phone": "1122334455"
+      "title": "Modern Villa",
+      "price": "$1,200,000",
+      "image": "https://example.com/images/modern_villa.jpg",
+      "description": "A modern villa with an infinity pool and stunning ocean views.",
+      "address": "789 Beach Road, Coastal City",
+      "realtorPhone": "1122334455"
     }
-]
+  ]
+}
